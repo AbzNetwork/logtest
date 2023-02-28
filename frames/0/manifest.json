@@ -1,0 +1,9 @@
+{
+  "originalUrl": "https://wallet.sorare.com/?allowedOrigin=https%3A%2F%2Fsorare.com",
+  "indexFilename": "index.html",
+  "resources": {
+    "stylesheet_0.css": "https://wallet.sorare.com/assets/index.5d4d1680.css",
+    "fonts/0.woff2": "https://frontend-assets.sorare.com/fonts/ApercuPro-Regular.woff2",
+    "fonts/1.woff2": "https://frontend-assets.sorare.com/fonts/ApercuPro-Bold.woff2"
+  }
+}
